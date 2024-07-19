@@ -54,3 +54,24 @@ header{
 .main{
     display:flex;
 }
+.section-two{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rs-container{
+    display: flex;
+    gap:20px;
+}
+.info-head{
+    font-size:36px;
+    font-weight: 1000;
+    color:#1F2937;
+}
+p{
+    width:150px;
+}
+.rs-container img{
+    border:5px solid #3882F6;
+    border-radius:10px;
+}
