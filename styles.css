@@ -27,7 +27,7 @@
 }
 .left h1{
     font-size:48px;
-    font-weight: 1000;
+    font-weight: 800;
 }
 .desc, a{
     font-size: 18px;
@@ -65,13 +65,33 @@ header{
 }
 .info-head{
     font-size:36px;
-    font-weight: 1000;
+    font-weight: 800;
     color:#1F2937;
 }
-p{
+.rs-container p{
     width:150px;
 }
 .rs-container img{
     border:5px solid #3882F6;
     border-radius:10px;
+}
+.section-three{
+    background-color: #E5E7EB;
+    display:flex;
+    justify-content: center;
+}
+.quote-container{
+    margin:50px;
+    display: flex;
+    flex-direction: column;
+}
+.quote{
+    font-size:36px;
+    color: #1F2937;
+    font-style: italic;
+    width:500px;
+}
+.quote-container p{
+    display:flex;
+    justify-content: flex-end;
 }
