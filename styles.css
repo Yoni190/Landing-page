@@ -29,10 +29,12 @@
     font-size:48px;
     font-weight: 800;
 }
-.desc, a{
+a{
+    text-decoration: none;
+}
+.desc, .section-one a{
     font-size: 18px;
     color:#E5E7EB;
-    text-decoration: none;
 }
 header{
     display:flex;
@@ -58,6 +60,7 @@ header{
     display:flex;
     flex-direction: column;
     align-items: center;
+    padding:50px;
 }
 .rs-container{
     display: flex;
@@ -94,4 +97,32 @@ header{
 .quote-container p{
     display:flex;
     justify-content: flex-end;
+}
+.section-four{
+    display:flex;
+    justify-content: center;
+    padding:100px;
+}
+.action-container{
+    display: flex;
+    background-color: #3882F6;
+    color: white;
+    padding:30px;
+    border-radius: 10px;
+    gap:100px;
+}
+.act a{
+    color:white;
+    border:2px solid white;
+    border-radius: 5px;
+    padding:2px 7px;
+}
+.time{
+    font-weight: bold;
+}
+footer{
+    background-color: #1F2937;
+    color:white;
+    padding:20px;
+    text-align: center;
 }
