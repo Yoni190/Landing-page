@@ -2,23 +2,22 @@
     box-sizing: border-box;
     margin:0;
     padding:0;
+    font-family:Arial, Helvetica, sans-serif;
 }
 .container{
     display: flex;
     flex-direction: column;
 }
 .section-one{
-    background-color: #1F2937;
+    background-color: black;
     display:flex;
     flex-direction: column;
     padding-bottom: 5vh;
 }
-.logo, .left h1{
+.left h1{
     color: #F9FAF8;
 }
-.logo{
-    font-size:24px;
-}
+
 .button{
     background-color: #3882F6;
     padding:5px;
@@ -44,6 +43,7 @@ header{
     margin-left:auto;
     display:flex;
     gap:20px;
+    padding-top:20px;
 }
 
 .left,.right{
@@ -64,7 +64,7 @@ header{
 }
 .rs-container{
     display: flex;
-    gap:20px;
+    gap:60px;
 }
 .info-head{
     font-size:36px;
@@ -73,11 +73,9 @@ header{
 }
 .rs-container p{
     width:150px;
+    text-align:center;
 }
-.rs-container img{
-    border:5px solid #3882F6;
-    border-radius:10px;
-}
+
 .section-three{
     background-color: #E5E7EB;
     display:flex;
@@ -105,11 +103,15 @@ header{
 }
 .action-container{
     display: flex;
-    background-color: #3882F6;
+    background-color: black;
     color: white;
     padding:30px;
     border-radius: 10px;
     gap:100px;
+}
+.act{
+    display:flex;
+    align-items: center;
 }
 .act a{
     color:white;
@@ -121,7 +123,7 @@ header{
     font-weight: bold;
 }
 footer{
-    background-color: #1F2937;
+    background-color: black;
     color:white;
     padding:20px;
     text-align: center;
