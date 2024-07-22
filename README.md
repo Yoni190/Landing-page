@@ -78,6 +78,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This webpage was done for a project from The Odin Project course to test my flex box skills.
 
 <h2>Screenshot</h2>
 <img src="img/screenshot.png" alt="Screenshot" width=700px>
