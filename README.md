@@ -79,7 +79,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]<img src="img/screenshot.png" alt="Screenshot" width=100px>
+<h2>Screenshot</h2>
+<img src="img/screenshot.png" alt="Screenshot" width=700px>
 
 
 
