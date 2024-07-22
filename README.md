@@ -79,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][img/screenshot.png]](img/screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](img/screenshot.png)
 
 
 
