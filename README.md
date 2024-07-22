@@ -42,7 +42,7 @@
     <a href="https://github.com/Yoni190/Landing-page"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Yoni190/Landing-page">View Demo</a>
+    <a href="https://yoni190.github.io/Landing-page/">Live Preview</a>
     ·
     <a href="https://github.com/Yoni190/Landing-page/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -79,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](img/screenshot.png)
+[![Product Name Screen Shot][product-screenshot]]<img src="img/screenshot.png" alt="Screenshot" width=100px>
 
 
 
@@ -89,7 +89,6 @@
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * git
   ```sh
   sudo apt install git
