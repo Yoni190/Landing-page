@@ -79,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](img/screenshot.png)
+[![Product Name Screen Shot][img/screenshot.png]](img/screenshot.png)
 
 
 
@@ -124,8 +124,6 @@ Project Link: [https://github.com/Yoni190/Landing-page](https://github.com/githu
 ## Acknowledgments
 
 * [The Odin Project](https://theodinproject.com)
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
